@@ -91,6 +91,8 @@ body{
     }
     textarea {
         width: 60%;
-       
+       }
+    textarea{
+        font-size:15px;
     }
 }
